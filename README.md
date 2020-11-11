@@ -1,3 +1,3 @@
 
 
-## Shyft has been relocated to [Shyft](https://gitlab.com/shyft-os/shyft)
+## [Shyft has been relocated to gitlab](https://gitlab.com/shyft-os/shyft)
